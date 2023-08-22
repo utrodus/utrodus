@@ -15,7 +15,7 @@ I offer mobile application development services with a keen eye for crafting pro
 - 🔭 I'm currently engaged in Mobile Application Development, working on projects that span Android, iOS, and Cross-Platform development.
 - 🌱 My ongoing learning journey includes diving deeper into Flutter, Kotlin, Swift, and other exciting technologies that spark my interest.
 - 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of mobile app development.
-- 🗿 As an early adopter of Flutter, I've been exploring its capabilities for over three years, contributing to its growth and evolution.
+- 🗿 As an early adopter of Flutter, I've been exploring its capabilities for over three years.
 
 ## Skills
 
@@ -24,7 +24,7 @@ My skill set encompasses a range of technologies and practices:
 Dart / Flutter / Flutter Bloc / GETX / Provider / RESTful API integration / Third-party libraries / App Architectures / App Modularization/ Automated Testing (Unit, Widget, Integration Test) / Writing reusable and clean code / Clean Architecture / Troubleshooting and debugging issues
 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utrodus-said/) | Follow me on [Twitter](https://twitter.com/utrodus)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/utrodus-said/) | Follow me on [Instagram](https://www.instagram.com/utrodus/)
 
 Let's collaborate to create exceptional experiences that leave a lasting impression! 🚀
 
