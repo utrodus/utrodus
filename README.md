@@ -33,35 +33,44 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 
 ## 🛠️ &nbsp; Skills & Tools
 
-### Languages
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Cross Platform Development
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Database
-
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Code Editor
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-### Design Tools
-
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+
+
 
 
 ### In the realm of Flutter, I've honed my expertise in various areas:
-UI/UX Design / State Management (Provider, Flutter Bloc, GetX) / Backend Integration ( Firebase, RESTful API) / Automated Testing ( Unit, Widget, Integration Test ) / Architecture and Organization ( Flutter Architecture Pattern, Clean Architecture, App Modularization ) / Clean code practices for maintainability / GIT / Third-Party Libraries and Packages / Continuous Integration and Deployment (CI/CD)
+
+| Flutter Skill             | Description                                                |
+|---------------------------|------------------------------------------------------------|
+| UI/UX Design              | Designing user interfaces and user experiences with Figma & Flutter  |
+| State Management          | Provider, Flutter Bloc, GetX                              |
+| Backend Integration       | Firebase, RESTful API                                     |
+| Automated Testing         | Unit Test, Widget Test, Integration Test                  |
+| Architecture and Org.     | Flutter Architecture Pattern, Clean Architecture, App Modularization |
+| Clean Code Practices      | Best practices for maintainable code                      |
+| Version control system    | GIT                              |
+| Third-Party Libraries     | External libraries, Dart & Flutter packages                          |
+| Continuous Integration    | Github Action, Codemagic            |
+
+
 
 ## 🖥️ &nbsp; Workspace Setup
 
