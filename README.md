@@ -21,16 +21,6 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
   
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
-
-## 📊 &nbsp; GitHub Stats:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="utrodus" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" /></p>
-
-
 ## 🛠️ &nbsp; Skills & Tools
 
 
@@ -91,6 +81,16 @@ Let's collaborate to create exceptional experiences that leave a lasting impress
 <a href="https://fb.com/utrodus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utrodus" height="30" width="40" /></a>
 <a href="https://instagram.com/utrodus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utrodus" height="30" width="40" /></a>
 </p>
+
+<br>
+
+## 📊 &nbsp; GitHub Stats:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="utrodus" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" /></p>
 
 <br>
 
