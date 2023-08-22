@@ -70,6 +70,7 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 
 - Expertise in Flutter Bloc for efficient state management
 - Utilizing Provider for scalable and intuitive app state handling
+- Leveraging GetX for reactive state management and dependency injection
 
 #### Backend Integration
 
