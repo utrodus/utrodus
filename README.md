@@ -5,7 +5,7 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 
 
 
-## 🧪 What I'm Up To
+## 🧪 &nbsp; What I'm Up To
 
 - 🔭 I'm currently engaged in Mobile Application Development, working on projects that span Android, iOS, and Cross-Platform development.
   
@@ -22,7 +22,7 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
 
-## 📊 GitHub Stats:
+## 📊 &nbsp; GitHub Stats:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="utrodus" /></p>
 
@@ -31,7 +31,7 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" /></p>
 
 
-## 🛠️ Skills & Tools
+## 🛠️ &nbsp; Skills & Tools
 
 ### Languages
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
@@ -61,49 +61,9 @@ My focus is crafting delightful user experiences using Flutter's versatile toolk
 
 
 ### In the realm of Flutter, I've honed my expertise in various areas:
-#### UI/UX Design
+UI/UX Design / State Management (Provider, Flutter Bloc, GetX) / Backend Integration ( Firebase, RESTful API) / Automated Testing ( Unit, Widget, Integration Test ) / Architecture and Organization ( Flutter Architecture Pattern, Clean Architecture, App Modularization ) / Clean code practices for maintainability / GIT / Third-Party Libraries and Packages / Continuous Integration and Deployment (CI/CD)
 
-- Proficient in creating stunning UIs using Flutter
-- Crafting user-centered and visually appealing app interfaces
-
-#### State Management
-
-- Expertise in Flutter Bloc for efficient state management
-- Utilizing Provider for scalable and intuitive app state handling
-- Leveraging GetX for reactive state management and dependency injection
-
-#### Backend Integration
-
-- Integration of Firebase for backend services and real-time functionality
-- RESTful API integration for seamless communication with external services
-
-#### Testing and Quality Assurance
-
-- Conducting Unit, Widget, and Integration Testing in Flutter
-- Ensuring high-quality code and app performance through testing
-
-#### Architecture and Organization
-
-- Implementing Flutter architecture patterns including Clean Architecture
-- App modularization and clean code practices for maintainability
-
-#### Version Control and Collaboration
-
-- Utilizing Git for version control in collaborative development environments
-- Ensuring code consistency and efficient team collaboration
-
-#### Third-Party Libraries and Packages
-
-- Integrating third-party libraries and packages to enhance app functionality
-- Staying up-to-date with the Flutter ecosystem for optimal app development
-
-#### Continuous Integration and Deployment (CI/CD)
-
-- Implementing CI/CD pipelines to automate testing and deployment processes
-- Ensuring smooth and efficient app updates and releases
-
-
-## 🖥️ Workspace Setup
+## 🖥️ &nbsp; Workspace Setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rx-570](https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
@@ -124,4 +84,6 @@ Let's collaborate to create exceptional experiences that leave a lasting impress
 </p>
 
 
+
+##  ✍️ &nbsp; Quote
 > "Stay curious, keep learning, and embrace the art of crafting amazing digital experiences." - Utrodus Said Al Baqi
