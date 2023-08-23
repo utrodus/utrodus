@@ -21,18 +21,14 @@
   <table>
     <tr>
       <th>Streak Stats</th>
-      <th>Top Languages</th>
-      <th>GitHub Stats</th>
     </tr>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="Streak Stats" /></td>
-      <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=utrodus&theme=light&hide_langs_below=1" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="GitHub Stats" /></td>
     </tr>
   </table>
 </div>
 
-<br>
+
 
 ## 💎 &nbsp; About Me
 
