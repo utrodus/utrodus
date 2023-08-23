@@ -32,6 +32,7 @@
   </table>
 </div>
 
+<br>
 
 ## 💎 &nbsp; About Me
 
@@ -42,7 +43,7 @@
 
 
 <div>
-  <h2>🛠️ Skills & Tools</h2>
+  <h4>🛠️ Skills & Tools</h4>
   <p>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -65,7 +66,7 @@
 
 
 <div >
-  <h2>🖥️ &nbsp; Workspace Setup</h2>
+  <h4>🖥️ &nbsp; Workspace Setup</h4>
   <p>
     <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 10th Gen" />
     <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Radeon RX 570" />
@@ -86,9 +87,6 @@
   
 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
-<br>
-
-##  🪩 &nbsp; Find Me Online
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utrodus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
