@@ -73,7 +73,6 @@
   </p>
 </div>
 
-<br>
 
 ##  💼 &nbsp; Get in Touch
 
