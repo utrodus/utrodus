@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/utrodus-said/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="utrodus" /> </a>
 </div>
 
-<br>
+
 
 | Streak Stats | Top Languages | GitHub Stats |
 |--------------|---------------|--------------|
@@ -25,7 +25,8 @@
 - 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of mobile app development.
   
 - 🗿 Fun fact **As an early adopter of Flutter, I've been exploring its capabilities for over three years.**
-  
+
+<br>  
 
 ## 🛠️ &nbsp; Skills & Tools
 
@@ -49,6 +50,7 @@
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
+<br>
 
 ## 🖥️ &nbsp; Workspace Setup
 
@@ -59,6 +61,7 @@
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
+<br>
 
 ##  💼 &nbsp; Get in Touch
 
@@ -68,12 +71,14 @@
   
 - 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
+<br>
 
 ##  🪩 &nbsp; Find Me Online
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utrodus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
 
+<br>
 
 ##  ✍️ &nbsp; Quote
 > "Stay curious, keep learning, and embrace the art of crafting amazing digital experiences." - Utrodus Said Al Baqi
