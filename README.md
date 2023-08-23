@@ -91,12 +91,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
 
-<br>
-
-<div align="center">
-  <h2>✍️ &nbsp; Quote</h2>
-  <blockquote style="font-style: italic; border-left: 4px solid #3498db; padding-left: 15px;">
-    <p>"Stay curious, keep learning, and embrace the art of crafting amazing digital experiences."<br>- <strong>Utrodus Said Al Baqi</strong></p>
-  </blockquote>
-</div>
-
