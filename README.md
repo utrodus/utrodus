@@ -14,7 +14,6 @@
 </div>
 
 
-<br>
 
 <div align="center">
   <table>
@@ -39,9 +38,6 @@
 - 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of mobile app development.
 - 🗿 **Fun Fact:** As an early adopter of Flutter, I've been exploring its capabilities for over three years.
 
-<br>  
-
-
 
 <div>
   <h2>🛠️ Skills & Tools</h2>
@@ -65,7 +61,6 @@
   </p>
 </div>
 
-<br>
 
 <div >
   <h2>🖥️ &nbsp; Workspace Setup</h2>
