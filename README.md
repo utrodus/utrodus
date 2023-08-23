@@ -43,7 +43,7 @@
 
 
 
-<div align="center">
+<div>
   <h2>🛠️ Skills & Tools</h2>
   <p>
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -67,7 +67,7 @@
 
 <br>
 
-<div align="center">
+<div >
   <h2>🖥️ &nbsp; Workspace Setup</h2>
   <p>
     <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 10th Gen" />
