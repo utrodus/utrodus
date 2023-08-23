@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/utrodus-said/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="utrodus" /> </a>
 </div>
 
-
+<br>
 
 | Streak Stats | Top Languages | GitHub Stats |
 |--------------|---------------|--------------|
