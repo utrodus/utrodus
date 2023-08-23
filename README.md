@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋,There I'm Utrodus Said Al Baqi</h1>
-<h3 align="center">A passionate Flutter developer hailing from Indonesia.</h3>
-<p align="center">
-My focus is crafting delightful user experiences using Flutter's versatile toolkit.</p>
-
+<h2 align="center">Hi 👋,There I'm Utrodus Said Al Baqi</h2>
+<h4 align="center">A passionate Flutter developer hailing from Indonesia.</h4>
 
 
 ## 🧪 &nbsp; What I'm Up To
