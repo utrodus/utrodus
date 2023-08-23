@@ -85,11 +85,11 @@
 
 ##  💼 &nbsp; Get in Touch
 
-- 👨‍💻 All of my projects are available at [https://www.utrodus.my.id/](https://www.utrodus.my.id/)
+👨‍💻 All of my projects are available at [https://www.utrodus.my.id/](https://www.utrodus.my.id/)
   
-- 📫 Reach me at: **contact.utrodus@gmail.com**
+📫 Reach me at: **contact.utrodus@gmail.com**
   
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
+📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
 <br>
 
@@ -100,5 +100,10 @@
 
 <br>
 
-##  ✍️ &nbsp; Quote
-> "Stay curious, keep learning, and embrace the art of crafting amazing digital experiences." - Utrodus Said Al Baqi
+<div align="center">
+  <h2>✍️ &nbsp; Quote</h2>
+  <blockquote style="font-style: italic; border-left: 4px solid #3498db; padding-left: 15px;">
+    <p>"Stay curious, keep learning, and embrace the art of crafting amazing digital experiences."<br>- <strong>Utrodus Said Al Baqi</strong></p>
+  </blockquote>
+</div>
+
