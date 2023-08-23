@@ -4,6 +4,7 @@
   <p>I'm Utrodus Said Al Baqi, a passionate Flutter developer hailing from the serene city of Blitar in East Java, Indonesia.</p>
 </div>
 
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/utrodus?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/utrodus?label=GitHub%20Stars&style=for-the-badge" alt="GitHub Stars" />
@@ -13,6 +14,7 @@
   </a>
 </div>
 
+<br>
 
 
 <div align="center">
