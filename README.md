@@ -1,5 +1,19 @@
-<h2 align="center">Hi 👋,There I'm Utrodus Said Al Baqi</h2>
-<h4 align="center">A passionate Flutter developer hailing from Indonesia.</h4>
+<h3 align="center">Hi 👋,There I'm Utrodus Said Al Baqi</h3>
+<h5 align="center">A passionate Flutter developer hailing from Blitar City, East Java, Indonesia.</h5>
+
+
+<div class="row" align="center" >
+    <img src="https://img.shields.io/github/followers/utrodus?label=Github%20followers&style=for-the-badge" alt="utrodus" />
+    <img src="https://img.shields.io/github/stars/utrodus?label=Github%20stars&style=for-the-badge" alt="utrodus" />
+    <img  src="https://komarev.com/ghpvc/?username=utrodus&label=Profile Views&color=blue&style=for-the-badge" alt="utrodus" />
+    <a href="https://www.linkedin.com/in/utrodus-said/"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="utrodus" /> </a>
+</div>
+
+<br>
+
+| Streak Stats | Top Languages | GitHub Stats |
+|--------------|---------------|--------------|
+| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=utrodus&) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en) |
 
 
 ## 🧪 &nbsp; What I'm Up To
@@ -12,11 +26,6 @@
   
 - 🗿 Fun fact **As an early adopter of Flutter, I've been exploring its capabilities for over three years.**
   
-- 👨‍💻 All of my projects are available at [https://www.utrodus.my.id/](https://www.utrodus.my.id/)
-  
-- 📫 Reach me at: **contact.utrodus@gmail.com**
-  
-- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
 ## 🛠️ &nbsp; Skills & Tools
 
@@ -41,24 +50,6 @@
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 
-
-
-### In the realm of Flutter, I've honed my expertise in various areas:
-
-| Flutter Skill             | Description                                                |
-|---------------------------|------------------------------------------------------------|
-| UI/UX Design              | Designing user interfaces and user experiences with Figma & Flutter  |
-| State Management          | Provider, Flutter Bloc, GetX                              |
-| Backend Integration       | Firebase, RESTful API                                     |
-| Automated Testing         | Unit Test, Widget Test, Integration Test                  |
-| Architecture and Org.     | Flutter Architecture Pattern, Clean Architecture, App Modularization |
-| Clean Code Practices      | Best practices for maintainable code                      |
-| Version control system    | GIT                              |
-| Third-Party Libraries     | External libraries, Dart & Flutter packages                          |
-| Continuous Integration    | Github Action, Codemagic            |
-
-
-
 ## 🖥️ &nbsp; Workspace Setup
 
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -69,27 +60,20 @@
 ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 
-##  💼 &nbsp; Connect With Me
-Let's collaborate to create exceptional experiences that leave a lasting impression! 🚀
-<p align="left">
-<a href="https://linkedin.com/in/utrodus-said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utrodus-said" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18666208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18666208" height="30" width="40" /></a>
-<a href="https://twitter.com/utrodusb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utrodusb" height="30" width="40" /></a>
-<a href="https://fb.com/utrodus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utrodus" height="30" width="40" /></a>
-<a href="https://instagram.com/utrodus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utrodus" height="30" width="40" /></a>
-</p>
+##  💼 &nbsp; Get in Touch
 
-<br>
+- 👨‍💻 All of my projects are available at [https://www.utrodus.my.id/](https://www.utrodus.my.id/)
+  
+- 📫 Reach me at: **contact.utrodus@gmail.com**
+  
+- 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
-## 📊 &nbsp; GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="utrodus" /></p>
+##  🪩 &nbsp; Find Me Online
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utrodus)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" /></p>
-
-<br>
 
 ##  ✍️ &nbsp; Quote
 > "Stay curious, keep learning, and embrace the art of crafting amazing digital experiences." - Utrodus Said Al Baqi
