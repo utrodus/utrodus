@@ -24,6 +24,12 @@
     </tr>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="Streak Stats" /></td>
+      <td>        
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" />
+      </td>
+      <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" />
+      </td>
     </tr>
   </table>
 </div>
@@ -66,8 +72,9 @@
   <p>
     <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 10th Gen" />
     <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Radeon RX 570" />
+      <img src="https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=macos&logoColor=F0F0F0"
+            alt="Apple" />
     <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" />
-    <img src="https://img.shields.io/badge/Apple-Custom-9?style=for-the-badge&logo=apple&logoColor=white" alt="Apple" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
   </p>
