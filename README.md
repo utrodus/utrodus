@@ -44,27 +44,14 @@
 <div >
   <h4>🖥️ &nbsp; Workspace Setup</h4>
   <p>
+    <img src="https://img.shields.io/badge/Macbook%20Air%20M1-20232A?style=for-the-badge&logo=apple&logoColor=white" alt="Macbook Air M1" />
+    <img src="https://img.shields.io/badge/Custom_PC-Computer-blue" alt="Custom PC" />    
     <img src="https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 10th Gen" />
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Radeon RX 570" />
-      <img src="https://img.shields.io/badge/mac%20os-323330?style=for-the-badge&logo=macos&logoColor=F0F0F0"
-            alt="Apple" />
-    <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+    <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Radeon RX 570" />    
+
   </p>
 </div>
 
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/utrodus?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/utrodus?label=GitHub%20Stars&style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=utrodus&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/utrodus-said/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
 
 
 <div align="center">
@@ -85,8 +72,6 @@
 </div>
 
 ##  💼 &nbsp; Get in Touch
-
-👨‍💻 All of my projects are available at [https://www.utrodus.my.id/](https://www.utrodus.my.id/)
   
 📫 Reach me at: **contact.utrodus@gmail.com**
   
@@ -96,3 +81,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi)
+
+
