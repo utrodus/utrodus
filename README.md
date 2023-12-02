@@ -1,39 +1,9 @@
 
-<div align="center">
+
   <h1>Hi there! 👋</h1>
-  <p>I'm Utrodus Said Al Baqi, a passionate Flutter developer hailing from the serene city of Blitar in East Java, Indonesia.</p>
-</div>
+<p>I'm Utrodus! 🚀 I specialize in the world of Flutter, where I weave magic into every line of code. 🧙‍♂️ Currently exploring the vast realms of Software Engineering 📚, my passion is deeply rooted in the language of Dart and the Flutter. 💙 Join me on this exciting journey of crafting exceptional software and applications. Curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
 
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/utrodus?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/utrodus?label=GitHub%20Stars&style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=utrodus&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/utrodus-said/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="LinkedIn" />
-  </a>
-</div>
-
-<br>
-
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Streak Stats</th>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="Streak Stats" /></td>
-      <td>        
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" />
-      </td>
-      <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+  
 
 
 ## 💎 &nbsp; About Me
@@ -84,6 +54,35 @@
   </p>
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/utrodus?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/utrodus?label=GitHub%20Stars&style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=utrodus&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/utrodus-said/">
+    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/utrodus-said/" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Streak Stats</th>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="Streak Stats" /></td>
+      <td>        
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="utrodus" />
+      </td>
+      <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utrodus&show_icons=true&locale=en&layout=compact" alt="utrodus" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ##  💼 &nbsp; Get in Touch
 
