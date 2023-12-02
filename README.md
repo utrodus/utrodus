@@ -1,9 +1,9 @@
 
 
   <h1>Hi there! 👋</h1>
-<p>I'm Utrodus 👨🏻‍🔬 ! I specialize in the world of Flutter, where I weave magic into every line of code. 🧙‍♂️ Currently exploring the vast realms of Software Engineering 📚, my passion is deeply rooted in the language of Dart and the Flutter. 💙 Join me on this exciting journey of crafting exceptional software and applications. Curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
+<p>I'm Utrodus 👨🏻‍🔬 ! I specialize in the world of Flutter, where I weave magic into every line of code. 🧙‍♂️ Currently exploring the vast realms of Software Engineering 📚, my passion is deeply rooted in the language of Dart and the Flutter. </p>
 
-  
+  <p>💙 Join me on this exciting journey of crafting exceptional software and applications. Curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
 
 
 ## 💎 &nbsp; About Me
