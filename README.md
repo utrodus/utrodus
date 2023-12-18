@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently engaged in Multiplatform App Development, working on projects that span Android, iOS, Web.
 - 🌱 My ongoing learning journey includes diving deeper into Dart, Flutter, Kotlin, Swift, and other exciting technologies that spark my interest.
-- 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of mobile app development.
+- 🤓 I have a penchant for conducting mini-research or investigations into things that pique my curiosity, especially within the realm of Multiplatform App Development.
 - 🗿 **Fun Fact:** As an early adopter of Flutter, I've been exploring its capabilities for over three years.
 
 
