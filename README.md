@@ -1,13 +1,13 @@
 
 
   <h1>Hi there! 👋</h1>
-<p>I'm Utrodus 👨🏻‍🔬 ! I specialize in the world of Dart & Flutter, where I weave magic 🧙‍♂️ into every line of code. </p>
+<p>Greetings! I'm Utrodus Said Al Baqi, and I'm passionate about developing multiplatform applications for Android, iOS, and the web. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies. Let's bring innovation to life! </p>
 
-<p>With a solid foundation in Dart programming language and expertise in the Flutter framework, I specialize in developing sophisticated mobile applications for both Android and iOS platforms. My passion for creating compelling user experiences is complemented by a keen eye for UI/UX design. Proficient in state management, API integration, and version control with Git, I excel in solving complex problems and ensuring the stability and quality of applications. 
+![image](https://github.com/utrodus/utrodus/assets/24326642/ac3ae00e-8670-4941-b32d-d96d22a6abf6)
 
-A continuous learner, I stay updated with the latest developments in Flutter and related technologies. With effective communication skills and a collaborative mindset, I thrive in team environments. My commitment to clean code and maintainability reflects my dedication to delivering high-quality solutions.
-</p>
-  <p>💙 Join me on this exciting journey of crafting exceptional software and applications. Curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
+
+
+  <p>💙 Join me on this exciting journey of crafting exceptional software and applications. Are you curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
 
 
 ## 💎 &nbsp; About Me
