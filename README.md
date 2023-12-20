@@ -1,7 +1,7 @@
 
 
   <h1>Hi there! 👋</h1>
-<p>I'm Utrodus 👨🏻‍🔬 ! I specialize in the world of Flutter, where I weave magic into every line of code. 🧙‍♂️ Currently exploring the vast realms of Software Engineering 📚, my passion is deeply rooted in the language of Dart and the Flutter. </p>
+<p>I'm Utrodus 👨🏻‍🔬 ! I specialize in the world of Flutter, where I weave magic 🧙‍♂️ into every line of code. </p>
 
 <p>With a solid foundation in Dart programming language and expertise in the Flutter framework, I specialize in developing sophisticated mobile applications for both Android and iOS platforms. My passion for creating compelling user experiences is complemented by a keen eye for UI/UX design. Proficient in state management, API integration, and version control with Git, I excel in solving complex problems and ensuring the stability and quality of applications. 
 
