@@ -1,7 +1,7 @@
 
 
   <h1>Hi there! 👋</h1>
-<p>Greetings! I'm Utrodus Said Al Baqi, and I'm passionate about developing multiplatform applications for Android, iOS, and the web. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies. Let's bring innovation to life! </p>
+<p>Greetings! I'm Utrodus Said Al Baqi, and I'm passionate about developing multiplatform applications for Android, iOS, Web, and the Desktop. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies. Let's bring innovation to life! </p>
 
 ![image](https://github.com/utrodus/utrodus/assets/24326642/ac3ae00e-8670-4941-b32d-d96d22a6abf6)
 
