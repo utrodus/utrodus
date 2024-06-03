@@ -3,7 +3,7 @@
   <h1>Hi there! 👋</h1>
 <p>Greetings! I'm Utrodus Said Al Baqi, and I'm passionate about developing multiplatform applications for Android, iOS, Web, and the Desktop. As a perpetual learner, I thrive on staying ahead with the latest advancements in Flutter and related technologies. Let's bring innovation to life! </p>
 
-![image](https://github.com/utrodus/utrodus/assets/24326642/ac3ae00e-8670-4941-b32d-d96d22a6abf6)
+![image](https://i.ibb.co.com/dPkbKtj/services.png)
 
 
 
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />    
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
