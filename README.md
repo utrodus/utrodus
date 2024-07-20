@@ -7,7 +7,7 @@
 
 
 
-  <p>💙 Join me on this exciting journey of crafting exceptional software and applications. Are you curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.my.id/" target="_blank">my website</a>!</p>
+  <p>💙 Join me on this exciting journey of crafting exceptional software and applications. Are you curious to witness the magic firsthand? Explore my enchanting portfolio on <a href="https://utrodus.com/" target="_blank">my website</a>!</p>
 
 
 ## 💎 &nbsp; About Me
