@@ -31,12 +31,6 @@ I'm Utrodus Said Al Baqi, a software engineer focused on developing innovative c
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 
-## Workspace Setup
-
-![MacBook Air M1](https://img.shields.io/badge/Macbook%20Air%20M1-20232A?style=for-the-badge&logo=apple&logoColor=white)
-![Custom PC](https://img.shields.io/badge/Custom_PC-Computer-blue)
-![Intel Core i3](https://img.shields.io/badge/Intel-Core_i3_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![AMD Radeon RX 570](https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ## Get in Touch
 
