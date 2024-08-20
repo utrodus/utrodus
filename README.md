@@ -9,7 +9,7 @@ I'm Utrodus Said Al Baqi, a software engineer focused on developing innovative c
 - 🤓 Passionate about conducting mini-research on topics that spark my curiosity within the realm of multiplatform development.
 - 🗿 **Fun Fact:** I've been exploring Flutter since its early days, with over three years of hands-on experience.
 
-## Skills & Tools
+## Languages and Tools:
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -21,7 +21,6 @@ I'm Utrodus Said Al Baqi, a software engineer focused on developing innovative c
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -30,6 +29,7 @@ I'm Utrodus Said Al Baqi, a software engineer focused on developing innovative c
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
 
 ## Workspace Setup
 
@@ -41,8 +41,6 @@ I'm Utrodus Said Al Baqi, a software engineer focused on developing innovative c
 ## Get in Touch
 
 📫 **Email:** [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
-
-📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1Jh6jWzEFOGR5PFBhW7iHwcUk9wYr-fF-/view?usp=drive_link)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/utrodus)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utrodusB)
