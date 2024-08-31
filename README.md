@@ -59,10 +59,8 @@ Originally from **Blitar, Indonesia**, where I currently reside, I prefer workin
 ## Get in Touch
 > If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
 
-📫 **Email:** [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
-
 [![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
 
 
@@ -71,7 +69,9 @@ Originally from **Blitar, Indonesia**, where I currently reside, I prefer workin
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utrodus&" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=utrodus&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+<p>
+<a href="https://github.com/utrodus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=utrodus&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utrodus&layout=compact&langs_count=8&theme=vue-dark"/>
+</a>
+</p>
