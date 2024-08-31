@@ -54,14 +54,20 @@ Originally from **Blitar, Indonesia**, where I currently reside, I prefer workin
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=flat&logo=Hugo)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?flat&logo=notion&logoColor=white)
 
-
+---
 
 ## Get in Touch
+> If you’re interested in hiring me or collaborating on a project with a meaningful impact, please feel free to reach out via email or contact me on Telegram.
 
 📫 **Email:** [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
 
+[![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi)
+
+
+
+---
 
 ## GitHub Stats
 
