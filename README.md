@@ -61,8 +61,6 @@ Originally from **Blitar, Indonesia**, where I currently reside, I prefer workin
 
 [![Contact Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_albaqi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.utrodus@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utrodus/)
-
 
 
 ---
