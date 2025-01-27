@@ -20,9 +20,7 @@ Originally from **Blitar, Indonesia**, where I currently reside, I prefer workin
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=flat&logo=tailwind-css&logoColor=4aacb5)
-
 ![Python](https://img.shields.io/badge/Python-05122A?flat&logo=python&logoColor=3a709c)
-![Django](https://img.shields.io/badge/django-05122A.svg?flat&logo=django&logoColor=24b2a5)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
 
 
