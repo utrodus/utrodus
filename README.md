@@ -4,8 +4,6 @@ I'm **Utrodus Said Al Baqi**, a software engineer with a strong proficiency in *
 
 My unique combination of technical expertise and design skills ensures that each project is not only functional but also visually stunning.
 
-Originally from **Blitar, Indonesia**, where I currently reside, I prefer working remotely 👨‍💻. This allows me the flexibility to continue delivering high-quality work, whether on a full-time or freelance basis.
-
 ---
 
 
