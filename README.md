@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm **Utrodus Said Al Baqi**, a software engineer with a strong proficiency in **Dart and Flutter**. I specialize in creating beautiful, user-friendly applications for Android, iOS, and the web. 
+I'm **Utrodus Said Al Baqi**, a software engineer. I specialize in creating beautiful, user-friendly Android, iOS, and web applications. 
 
-My unique combination of technical expertise and design skills ensures that each project is not only functional but also visually stunning.
+My unique combination of technical expertise and design skills ensures that each project is functional and visually stunning.
 
 ---
 
