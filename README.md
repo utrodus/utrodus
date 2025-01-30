@@ -36,7 +36,6 @@ My unique combination of technical expertise and design skills ensures that each
 
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?flat&logo=firebase&logoColor=ff9100)
 ![SQLite](https://img.shields.io/badge/SQLite-05122A?flat&logo=sqlite&logoColor=0387ca)
-![Postgres](https://img.shields.io/badge/postgres-05122A.svg?style=flat&logo=postgresql&logoColor=23316192)
 ![MySQL](https://img.shields.io/badge/mysql-05122A.svg?style=flat&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-05122A?flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/github-05122A.svg?style=flat&logo=github&logoColor=white)
