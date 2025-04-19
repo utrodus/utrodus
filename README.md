@@ -8,17 +8,18 @@ My unique combination of technical expertise and design skills ensures that each
 
 
 ## Skills:
-
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC) 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=007ACC) 
+![Python](https://img.shields.io/badge/Python-05122A?flat&logo=python&logoColor=3a709c)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A?flat&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=flat&logo=tailwind-css&logoColor=4aacb5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-05122A?flat&logo=vuedotjs&logoColor=%234FC08D)
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=flat&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?style=flat&logo=tailwind-css&logoColor=4aacb5)
-![Python](https://img.shields.io/badge/Python-05122A?flat&logo=python&logoColor=3a709c)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)
 
 
